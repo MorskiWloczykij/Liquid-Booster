@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Liquid Boost.PcbDoc   13/10/2021  21:52:23
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Liquid Boost-RoundHoles.TXT
+ASCII SquareHoles File : Liquid Boost-SquareHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             5         PTH        0.00mm (0.00inch)
+T2      0.6mm (24mil)                                             Round             6         PTH        0.00mm (0.00inch)
+T3      1mm (39mil)                                               Round             18        PTH        0.00mm (0.00inch)
+T4      1.2mm (47mil)                                             Round             3         PTH        0.00mm (0.00inch)
+T5      2.2mm (87mil)                                             Square            2         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              34
+
+Total Processing Time (hh:mm:ss) : 00:00:00
