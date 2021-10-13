@@ -1,0 +1,23 @@
+Circuit: * E:\Github\Liquid Boost\Liquid_Boost.asc
+
+WARNING: Node BUFF_OUT is floating.
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Oct 09 12:54:32 2021
+Total elapsed time: 2.850 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 20599
+traniter = 20594
+tranpoints = 10204
+accept = 10109
+rejected = 95
+matrix size = 15
+fillins = 9
+solver = Normal
+Matrix Compiler1: 1.11 KB object code size  1.0/0.7/[0.3]
+Matrix Compiler2: 1.38 KB object code size  0.7/0.7/[0.3]
+
